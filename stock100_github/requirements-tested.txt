@@ -1,0 +1,9 @@
+streamlit==1.64.0
+pandas==3.0.1
+numpy==2.3.5
+scikit-learn==1.9.1
+plotly==7.1.0
+openpyxl==3.1.5
+requests==2.34.2
+akshare==1.18.96
+baostock==0.9.3
