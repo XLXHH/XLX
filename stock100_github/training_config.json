@@ -1,0 +1,29 @@
+{
+  "schema_version": 2,
+  "v5_path": "",
+  "root": "research_data",
+  "pool_size": 3000,
+  "history_years": 5,
+  "minimum_listing_days": 550,
+  "minimum_median_amount": 20000000,
+  "industry_basket_size": 12,
+  "request_delay_seconds": 1.5,
+  "consecutive_failure_limit": 5,
+  "news_days": 7,
+  "horizons": [
+    1,
+    5,
+    10,
+    30
+  ],
+  "seed": 20260918,
+  "heldout_stock_percent": 10,
+  "max_train_rows": 350000,
+  "logistic_C": 0.3,
+  "regressor_iterations": 100,
+  "regressor_leaves": 15,
+  "regressor_min_leaf": 100,
+  "regressor_l2": 10.0,
+  "round_trip_cost_bps": 20,
+  "bootstrap_repetitions": 500
+}
